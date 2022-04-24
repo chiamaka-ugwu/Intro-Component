@@ -20,8 +20,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://chiamaka-ugwu.github.io/Intro-Component/](https://chiamaka-ugwu.github.io/Intro-Component/)
 
 ## My process
 
